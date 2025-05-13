@@ -1,0 +1,13 @@
+{
+    "name":"XX",
+    "version":"1.0",
+    "description":"tool as new features for xcloud on xbox",
+    "browser-action":{
+        "default_popup":"index.html"
+    },
+
+    "manifest_version":2
+
+
+
+}
