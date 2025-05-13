@@ -1,6 +1,6 @@
 {
-    "name":"XX",
-    "version":"1.0",
+    "name":"Xperience XCloud",
+    "version":"1.1.0",
     "description":"tool as new features for xcloud on xbox",
     "browser-action":{
         "default_popup":"index.html"
