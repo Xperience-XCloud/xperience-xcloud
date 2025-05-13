@@ -36,7 +36,7 @@ Visit the [home page](https://xperience-xcloud.github.io) to know how to install
 ⚠️ Please DO NOT report **Xperience XCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/XperienceXCloud/). Report bugs in [Issues](https://github.com/xperiencexcloud/xperience-xcloud/issues) or [Telegram channel](https://t.me/xperiencexcloud) instead.
 
 ## Donation
-If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/Xperience-XCloud).  
+If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/XperienceXCloud).  
 Or you can give this project a star, that's also helpful.  
 Thank you.  
 
