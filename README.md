@@ -20,7 +20,7 @@
 - Windows
 - macOS
 - Linux, SteamOS (including Steam Deck)
-- Android, Android TV (including Meta Quest VR Headsets): [redphx/better-xcloud-android](https://github.com/redphx/better-xcloud-android)
+- Android, Android TV (including Meta Quest VR Headsets): [redphx/xperience-xcloud-android](https://github.com/experience-xcloud/xperience-xcloud-android)
 - iOS, iPadOS
 
 This script makes me spend more time with xCloud, and I hope the same thing happens to you.  
