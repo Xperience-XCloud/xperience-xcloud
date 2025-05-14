@@ -1,0 +1,13 @@
+// ==UserScript==
+// @name         Xperience XCloud (Lite)
+// @namespace    https://github.com/xperience-xcloud
+// @version      [[VERSION]]
+// @description  Improve Xbox Cloud Gaming (xCloud) experience
+// @author       Xperience XCloud Team
+// @license      MIT
+// @match        https://www.xbox.com/*/play*
+// @match        https://www.xbox.com/*/auth/msa?*loggedIn*
+// @run-at       document-end
+// @grant        none
+// ==/UserScript==
+"use strict";

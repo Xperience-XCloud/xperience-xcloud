@@ -1,0 +1,5 @@
+// ==UserScript==
+// @name         Xperience XCloud
+// @namespace    https://github.com/xperience-xcloud
+// @version      [[VERSION]]
+// ==/UserScript==
