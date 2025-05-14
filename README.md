@@ -30,8 +30,8 @@ If you like this project please give it a 🌟. Thank you 🙏.
 Visit the [home page](https://xperience-xcloud.github.io) to know how to install Xperience XCloud on your device.
 
 ## Full documentations
-- For the full details please visit: [**xperience-xcloud.github.io**](https://xperience-xcloud.github.io)  
-- [Demo video](https://youtu.be/hyp69Jrb2sQ)
+- For the full details please visit: [**xperience-xcloud.github.io**](https://xperience-xcloud.netlify.app)  
+- [Demo video](https://youtube.com/@xperiencexcloud)
 
 ⚠️ Please DO NOT report **Xperience XCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/XperienceXCloud/). Report bugs in [Issues](https://github.com/xperiencexcloud/xperience-xcloud/issues) or [Telegram channel](https://t.me/xperiencexcloud) instead.
 
